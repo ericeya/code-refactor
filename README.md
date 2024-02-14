@@ -16,7 +16,9 @@ The starter code consist of many tags and elements that are not so accessible or
 
 ## Screenshot of the refactored webpage
 
-![Screenshot of the updated webpage after code refactoring - pending actual screenshot](./assets/images/01-html-css-git-homework-demo.png)
+![Screenshot of the updated webpage after code refactoring](./assets/images/Screenshot1.png)
+![Screenshot of the updated webpage after code refactoring](./assets/images/Screenshot2.png)
+![Screenshot of the updated webpage after code refactoring](./assets/images/Screenshot3.png)
 
 > This is after refactoring the code for accessiblility. [Click here](https://ericeya.github.io/code-refactor) to access the webpage directly on your computer.
 

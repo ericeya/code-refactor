@@ -20,5 +20,6 @@ The starter code consist of many tags and elements that are not so accessible or
 ![Screenshot of the updated webpage after code refactoring](./assets/images/Screenshot2.png)
 ![Screenshot of the updated webpage after code refactoring](./assets/images/Screenshot3.png)
 
-> This is after refactoring the code for accessiblility. [Click here](https://ericeya.github.io/code-refactor) to access the webpage directly on your computer.
+## Link to deploy
 
+[https://ericeya.github.io/code-refactor](https://ericeya.github.io/code-refactor)

@@ -1,7 +1,12 @@
 ## Code Refactoring &mdash; Horiseon webpage
 
-The current code consist of many tags and elements that are not so accessible / readable.
-As a junior developer, I want to refactor the code so that it is easier to read for other people and for online search engine optimization.
+The starter code consist of many tags and elements that are not so accessible or readable.
+
+- As a junior developer, 
+- I want to refactor the code with better semantics
+- so that it is easier to read for all people and for online search engine optimization.
+
+> Semantics is very crucial when writing HTML code for website for public access. For those with vision or hearing impaired, good semantics make the website much more easier to comprehend and navigate.
 
 ## How the page should look
 
@@ -11,7 +16,7 @@ As a junior developer, I want to refactor the code so that it is easier to read 
 
 ## Screenshot of the refactored webpage
 
-![Screenshot of the updated webpage after code refactoring](./assets/images/01-html-css-git-homework-demo.png)
+![Screenshot of the updated webpage after code refactoring - pending actual screenshot](./assets/images/01-html-css-git-homework-demo.png)
 
 > This is after refactoring the code for accessiblility. [Click here](https://ericeya.github.io/code-refactor) to access the webpage directly on your computer.
 
